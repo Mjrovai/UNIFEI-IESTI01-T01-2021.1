@@ -11,7 +11,7 @@ O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plat
 
 O TinyML difere do aprendizado de máquina convencional (por exemplo, servidor - nuvem) porque requer não apenas conhecimentos em software, mas também conhecimentos em hardware integrado. Este curso procura fornecer uma base para o entendimento deste campo emergente.
 
-**NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamantal para o acompanhamento do curso, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.**
+**NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.**
 
 A atual versão deste curso tem como principais referencias:
 + [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
@@ -60,7 +60,7 @@ A atual versão deste curso tem como principais referencias:
 + Para a captura de dados e deployment dos modelos treinados serão utilizados ao menos smart-phones dotados de sensores do tipo: acelerometro, microfone e camera
 + Opcionalmente serão também utilizados MCUs como Arduino BLE Sense (Cortex-M4) e Raspberry Pi-Pico (RP2040). 
 
-## Equipe de professores do grupo de TinyML:
+## Equipe de professores do grupo de TinyML da UNIFEI:
 + [Maurilio Pereira Coutinho]()
 + [José Alberto Ferreira]()
 + [Marcelo José Rovai]()
