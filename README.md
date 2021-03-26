@@ -65,7 +65,7 @@ A atual versão deste curso tem como principais referencias:
 + [José Alberto Ferreira]()
 + [Marcelo José Rovai]()
 
-## Preliminar Class Schedule
+## Planejamento das Classes
 <img src='Preliminar_Class_Schedule.png'/>
 
 # Material
