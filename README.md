@@ -1,15 +1,17 @@
 # UNIFEI-IESTI01-T01-2021.1
 ## Course Repository - TinyML - Machine Learning for Embedding Devices
 
-<img src:IESTI_1.jpg>
+<img src='IESTI_1.jpg'/>
 
 ## Visão geral do curso
 
-Tiny Machine Learning (TinyML) é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcadoscom ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF MIcro), permitirá a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plataformas como TensorFlow (TF) o tornam um tópico de estudo indispensável para estudantes de Engenharia Eletrônica, da Computação e Controle & Automação. 
+Tiny Machine Learning (TinyML) é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcadoscom ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF MIcro), permitirá a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). 
+
+O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plataformas como TensorFlow (TF) o tornam um tópico de estudo indispensável para estudantes de Engenharia Eletrônica, da Computação e Controle & Automação. 
 
 O TinyML difere do aprendizado de máquina convencional (por exemplo, servidor - nuvem) porque requer não apenas conhecimento em software, mas também conhecimento em hardware integrado. Este curso procura fornecer uma base para o entendimento desse importnate campo emergente.
 
-A atual versão deste curso tem como referencia:
+A atual versão deste curso tem como principais referencias:
 + [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
 + [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 + [Introduction to Embedded Machine Learning (Coursera)](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
@@ -55,12 +57,15 @@ A atual versão deste curso tem como referencia:
 + Para a captura de dados e deployment dos modelos treinados serão utilizados ao menos smart-phones dotados de sensores do tipo: acelerometro, microfone e camera
 + Opcionalmente serão também utilizados MCUs como Arduino BLE Sense (Cortex-M4) e Raspberry Pi-Pico (RP2040). 
 
-## The TinyMLx Team:
-### Course Instructors
-+ [Maurilio ...]()
-+ [José Alberto ...](
-+ [Marcelo Rovai]()
+## Equipe de professores do grupo de TinyML:
++ [Maurilio Pereira Coutinho]()
++ [José Alberto Ferreira](
++ [Marcelo José Rovai]()
 
+## Preliminar Class Schedule
+<img src='Preliminar_Class_Schedule.png'/>
+
+# Material
 
 ## Chapter 1: Welcome to TinyML
 The goal of this chapter is to introduce the students to the core concepts, challenges, and opportunites of TinyML. It will also give an overview of the entire specialization; how the courses are structured and what to expect as a student steping through the curriculum.
