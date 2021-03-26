@@ -48,6 +48,7 @@ A atual versão deste curso tem como principais referencias:
 +	Projeto Final (com apresentação): 30%
 
 ## Pré-requisitos
++ Conhecimentos do idioma inglês (leitura).
 + Conhecimentos básicos de programação em  C / C ++ (Arduino IDE) e Python. Todas as tarefas de classe envolverão uma ou ambos linguages de programação.
 + Familiaridade com ferramentas de linha de comando em Mac, Windows ou Linux. Os projetos exigirão operações em um terminal.
 + Noções de Algebra linear, probabilidade básica e estatística. Muitos tópicos de ML giram em torno de compreender operações e notação de vetores e matrizes, bem como conceitos de distribuições gaussianas, médias, desvios-padrão etc.
