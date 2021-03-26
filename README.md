@@ -11,6 +11,8 @@ O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plat
 
 O TinyML difere do aprendizado de máquina convencional (por exemplo, servidor - nuvem) porque requer não apenas conhecimentos em software, mas também conhecimentos em hardware integrado. Este curso procura fornecer uma base para o entendimento deste campo emergente.
 
+**NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamantal para o acompanhamento do curso, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.**
+
 A atual versão deste curso tem como principais referencias:
 + [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
 + [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
