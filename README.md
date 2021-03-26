@@ -59,7 +59,7 @@ A atual versão deste curso tem como principais referencias:
 
 ## Equipe de professores do grupo de TinyML:
 + [Maurilio Pereira Coutinho]()
-+ [José Alberto Ferreira](
++ [José Alberto Ferreira]()
 + [Marcelo José Rovai]()
 
 ## Preliminar Class Schedule
