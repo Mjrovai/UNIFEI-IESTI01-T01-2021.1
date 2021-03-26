@@ -1,6 +1,8 @@
 # UNIFEI-IESTI01-T01-2021.1
 ## Course Repository - TinyML - Machine Learning for Embedding Devices
 
+<img src:IESTI_1.jpg>
+
 ## Visão geral do curso
 
 Tiny Machine Learning (TinyML) é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcadoscom ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF MIcro), permitirá a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plataformas como TensorFlow (TF) o tornam um tópico de estudo indispensável para estudantes de Engenharia Eletrônica, da Computação e Controle & Automação. 
