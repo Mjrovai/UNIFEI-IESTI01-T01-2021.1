@@ -61,11 +61,11 @@ A atual versão deste curso tem como principais referencias:
 + Opcionalmente serão também utilizados MCUs como Arduino BLE Sense (Cortex-M4) e Raspberry Pi-Pico (RP2040). 
 
 ## Professor do curso:
-+ [Marcelo José Rovai]()
++ [Marcelo José Rovai](https://medium.com/@rovai)
 
 ## Supervisão e apoio:
-+ [Maurilio Pereira Coutinho]()
-+ [José Alberto Ferreira]()
++ [Maurilio Pereira Coutinho](http://lattes.cnpq.br/8563634195134747)
++ [José Alberto Ferreira](http://lattes.cnpq.br/8319509175327154)
 
 ## Planejamento das Classes (Turma 1 - 2021.1)
 <img src='Class_Schedule_2021.1.png'/>
