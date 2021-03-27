@@ -73,7 +73,7 @@ A atual versão deste curso tem como principais referencias:
 ## Material
 
 ### Leituras sugeridas para antes do início do curso:
-+ Pre-curso: Leituras sugeridas: [Papers/articles](doc/pre-course/)
++ Pre-curso: Leituras sugeridas: [Papers/articles](docs/pre-course/)
 
 ### Parte 1: Fundamentals 
 + aula 1	28-04-21	About the Course and Syllabus
