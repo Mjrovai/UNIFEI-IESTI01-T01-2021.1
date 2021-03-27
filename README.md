@@ -60,15 +60,49 @@ A atual versão deste curso tem como principais referencias:
 + Para a captura de dados e deployment dos modelos treinados serão utilizados ao menos smart-phones dotados de sensores do tipo: acelerometro, microfone e camera
 + Opcionalmente serão também utilizados MCUs como Arduino BLE Sense (Cortex-M4) e Raspberry Pi-Pico (RP2040). 
 
-## Equipe de professores do grupo de TinyML da UNIFEI:
-+ [Maurilio Pereira Coutinho]()
-+ [José Alberto Ferreira]()
+## Professor do curso:
 + [Marcelo José Rovai]()
 
-## Planejamento das Classes
+## Supervisão e apoio:
++ [Maurilio Pereira Coutinho]()
++ [José Alberto Ferreira]()
+
+## Planejamento das Classes (Turma 1 - 2021.1)
 <img src='Class_Schedule_2021.1.png'/>
 
 # Material
+
++ aula 1	28-04-21	About the Course and Syllabus
++ aula 2	28-04-21	Introduction to TinyML
++ aula 3	05-05-21	Installing Jupyter Notebook & using of Google CoLab 
++ aula 4	05-05-21	Python and Machine Learning Review
++ aula 5	12-05-21	Deep Learning 1a: A Single Neuron; Deep Neural Networks (DNN)
++ aula 6	12-05-21	Deep Learning 1b: Stochastic Gradient Descent
++ aula 7	19-05-21	Deep Learning 2a: Overfitting and Underfitting; Dropout and Batch Normalization
++ aula 8	19-05-21	Deep Learning 2b: Binary Classification 
++ aula 9	26-05-21	Deep Learning 3a: Computer Vision Overview
++ aula 10	26-05-21	Deep Learning 3b: Convolutional Neural Networks  and Transfer Learning
++ aula 11	02-06-21	AI Lifecycle and ML Workflow
++ aula 12	02-06-21	
++ aula 13	09-06-21	Machine Learning on Mobile and Edge IoT Devices
++ aula 14	09-06-21	
++ aula 15	16-06-21	Keyword Spotting
++ aula 16	16-06-21	Lab KWS
++ aula 17	23-06-21	Visual Wake Words
++ aula 18	23-06-21	Lab VWW
++ aula 19	30-06-21	Anomaly Detection
++ aula 20	30-06-21	Lab Gesture Classification and Anomaly Detection
++ aula 21	07-07-21	Deploying TinyML Applications on Embedded Devices
++ aula 22	07-07-21	Demo/Lab
++ aula 23	14-07-21	Collecting a Custom TinyML Dataset
++ aula 24	14-07-21	Demo/Lab
++ aula 25	21-07-21	Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition
++ aula 26	21-07-21	Demo/Lab
++ aula 27	28-07-21	Profiling and Optimization of TinyML Applications
++ aula 28	28-07-21	Responsible AI
++ aula 29	04-08-21	Group Presentations 
++ aula 30	04-08-21	Group Presentations ![image](https://user-images.githubusercontent.com/17109416/112723069-8f71f100-8eeb-11eb-8b94-98f3a52be819.png)
+
 
 ## Chapter 1: Welcome to TinyML
 The goal of this chapter is to introduce the students to the core concepts, challenges, and opportunites of TinyML. It will also give an overview of the entire specialization; how the courses are structured and what to expect as a student steping through the curriculum.
