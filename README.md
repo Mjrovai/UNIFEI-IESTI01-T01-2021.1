@@ -3,6 +3,8 @@
 
 <img src='IESTI_1.jpg'/>
 
+`NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
+
 ## Visão geral do curso
 
 TinyML é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcados com ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF MIcro), permitirá a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). 
@@ -10,8 +12,6 @@ TinyML é um curso introdutório na interseção entre o Aprendizado de Máquina
 O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plataformas como TensorFlow (TF) o tornam um tópico de estudo indispensável para estudantes de Engenharia Eletrônica, da Computação e Controle & Automação. 
 
 O TinyML difere do aprendizado de máquina convencional (por exemplo, servidor - nuvem) porque requer não apenas conhecimentos em software, mas também conhecimentos em hardware integrado. Este curso procura fornecer uma base para o entendimento deste campo emergente.
-
-** `NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`**
 
 A atual versão deste curso tem como principais referencias:
 + [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
