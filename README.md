@@ -73,10 +73,10 @@ A atual versão deste curso tem como principais referencias:
 ## Planejamento das Tarefas/Trabalhos (Turma 1 - 2021.1)
 <img src='assignments.png'/>
 
-## Material
+## Material (All in English)
 
-### Leituras sugeridas para antes do início do curso:
-+ Pre-curso: Leituras sugeridas: [[Papers/articles]](docs/pre-course/)
+### Optional readings pre-course:
++ Pre-course: Suggested readings : [[Papers/articles]](docs/pre-course/)
 
 ### Parte 1: Fundamentals 
 + Aula 1 - About the Course and Syllabus
@@ -112,6 +112,6 @@ A atual versão deste curso tem como principais referencias:
 + Aula 27 - Profiling and Optimization of TinyML Applications [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
 + Aula 28 - Responsible AI [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
 
-### Conclusão
+### Conclusion
 + Aula 29 - Group Presentations 
 + Aula 30 - Group Presentations 
