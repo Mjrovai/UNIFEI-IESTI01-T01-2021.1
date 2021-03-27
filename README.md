@@ -79,7 +79,7 @@ A atual versão deste curso tem como principais referencias:
 + Aula 1 - About the Course and Syllabus
 + Aula 2 - Introduction to TinyML  [[Slides]](slides/TinyML_Intro.pdf)
 + Aula 3 - Installing Jupyter Notebook & using of Google CoLab [[Docs]](docs/Tips_for_using_Colab.pdf)
-+ Aula 4 - Python and Machine Learning Review  [[Slides]]](slides/x.pdf) [[Docs]] (docs/doc.pdf) [[Notebooks]] (docs/xxx) 
++ Aula 4 - Python and Machine Learning Review  [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
 + Aula 5 - Deep Learning 1a: A Single Neuron; Deep Neural Networks (DNN)
 + Aula 6 - Deep Learning 1b: Stochastic Gradient Descent
 + Aula 7 - Deep Learning 2a: Overfitting and Underfitting; Dropout and Batch Normalization
