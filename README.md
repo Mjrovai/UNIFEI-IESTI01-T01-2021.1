@@ -72,6 +72,9 @@ A atual versão deste curso tem como principais referencias:
 
 # Material
 
++ Pre-curso: Leituras sugeridas:
+  +   Papers/articles [docs](Doc/pre-course
+
 + aula 1	28-04-21	About the Course and Syllabus
 + aula 2	28-04-21	Introduction to TinyML
 + aula 3	05-05-21	Installing Jupyter Notebook & using of Google CoLab 
