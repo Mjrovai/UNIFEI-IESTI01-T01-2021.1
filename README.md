@@ -70,6 +70,9 @@ A atual versão deste curso tem como principais referencias:
 ## Planejamento das Classes (Turma 1 - 2021.1)
 <img src='Class_Schedule_2021.1.png'/>
 
+## Planejamento das Tarefas/Trabalhos (Turma 1 - 2021.1)
+<img src='assignments.png'/>
+
 ## Material
 
 ### Leituras sugeridas para antes do início do curso:
