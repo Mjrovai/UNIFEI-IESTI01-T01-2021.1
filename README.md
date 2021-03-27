@@ -88,26 +88,26 @@ A atual versão deste curso tem como principais referencias:
 + Aula 10 - Deep Learning 3b: Convolutional Neural Networks  and Transfer Learning [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
 
 ### Parte 2: Applications
-+ Aula 11 - AI Lifecycle and ML Workflow
-+ Aula 12 - AI Lifecycle and ML Workflow
-+ Aula 13 - Machine Learning on Mobile and Edge IoT Devices
++ Aula 11 - AI Lifecycle and ML Workflow [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Aula 12 - AI Lifecycle and ML Workflow 
++ Aula 13 - Machine Learning on Mobile and Edge IoT Devices [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
 + Aula 14 - Machine Learning on Mobile and Edge IoT Devices
-+ Aula 15 - Keyword Spotting
-+ Aula 16 - Lab KWS
-+ Aula 17 - Visual Wake Words
-+ Aula 18 - Lab VWW
-+ Aula 19 - Anomaly Detection
-+ Aula 20 - Lab Gesture Classification and Anomaly Detection
++ Aula 15 - Keyword Spotting [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Aula 16 - Lab KWS [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Aula 17 - Visual Wake Words [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Aula 18 - Lab VWW [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Aula 19 - Anomaly Detection [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Aula 20 - Lab Gesture Classification and Anomaly Detection [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
 
 ### Parte 3: Deploying
-+ Aula 21 - Deploying TinyML Applications on Embedded Devices
++ Aula 21 - Deploying TinyML Applications on Embedded Devices [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
 + Aula 22 - Demo/Lab
-+ Aula 23 - Collecting a Custom TinyML Dataset
++ Aula 23 - Collecting a Custom TinyML Dataset [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
 + Aula 24 - Demo/Lab
-+ Aula 25 - Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition
++ Aula 25 - Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
 + Aula 26 - Demo/Lab
-+ Aula 27 - Profiling and Optimization of TinyML Applications
-+ Aula 28 - Responsible AI
++ Aula 27 - Profiling and Optimization of TinyML Applications [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Aula 28 - Responsible AI [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
 
 ### Conclusão
 + Aula 29 - Group Presentations 
