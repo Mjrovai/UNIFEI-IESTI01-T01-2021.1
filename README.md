@@ -76,39 +76,39 @@ A atual versão deste curso tem como principais referencias:
 + Pre-curso: Leituras sugeridas: [Papers/articles](docs/pre-course/)
 
 ### Parte 1: Fundamentals 
-+ aula 1	28-04-21	About the Course and Syllabus
-+ aula 2	28-04-21	Introduction to TinyML  [[Slides]](slides/1-1-1.pdf)
-+ aula 3	05-05-21	Installing Jupyter Notebook & using of Google CoLab 
-+ aula 4	05-05-21	Python and Machine Learning Review
-+ aula 5	12-05-21	Deep Learning 1a: A Single Neuron; Deep Neural Networks (DNN)
-+ aula 6	12-05-21	Deep Learning 1b: Stochastic Gradient Descent
-+ aula 7	19-05-21	Deep Learning 2a: Overfitting and Underfitting; Dropout and Batch Normalization
-+ aula 8	19-05-21	Deep Learning 2b: Binary Classification 
-+ aula 9	26-05-21	Deep Learning 3a: Computer Vision Overview
-+ aula 10	26-05-21	Deep Learning 3b: Convolutional Neural Networks  and Transfer Learning
++ Aula 1 - About the Course and Syllabus
++ Aula 2 - Introduction to TinyML  [[Slides]](slides/TinyML_Intro.pdf)
++ Aula 3 - Installing Jupyter Notebook & using of [Google CoLab](docs/Tips for using Colab.pdf)
++ Aula 4 - Python and Machine Learning Review
++ Aula 5 - Deep Learning 1a: A Single Neuron; Deep Neural Networks (DNN)
++ Aula 6 - Deep Learning 1b: Stochastic Gradient Descent
++ Aula 7 - Deep Learning 2a: Overfitting and Underfitting; Dropout and Batch Normalization
++ Aula 8 - Deep Learning 2b: Binary Classification 
++ Aula 9 - Deep Learning 3a: Computer Vision Overview
++ Aula 10 - Deep Learning 3b: Convolutional Neural Networks  and Transfer Learning
 
 ### Parte 2: Applications
-+ aula 11	02-06-21	AI Lifecycle and ML Workflow
-+ aula 12	02-06-21	
-+ aula 13	09-06-21	Machine Learning on Mobile and Edge IoT Devices
-+ aula 14	09-06-21	
-+ aula 15	16-06-21	Keyword Spotting
-+ aula 16	16-06-21	Lab KWS
-+ aula 17	23-06-21	Visual Wake Words
-+ aula 18	23-06-21	Lab VWW
-+ aula 19	30-06-21	Anomaly Detection
-+ aula 20	30-06-21	Lab Gesture Classification and Anomaly Detection
++ Aula 11 - AI Lifecycle and ML Workflow
++ Aula 12 - AI Lifecycle and ML Workflow
++ Aula 13 - Machine Learning on Mobile and Edge IoT Devices
++ Aula 14 - Machine Learning on Mobile and Edge IoT Devices
++ Aula 15 - Keyword Spotting
++ Aula 16 - Lab KWS
++ Aula 17 - Visual Wake Words
++ Aula 18 - Lab VWW
++ Aula 19 - Anomaly Detection
++ Aula 20 - Lab Gesture Classification and Anomaly Detection
 
 ### Parte 3: Deploying
-+ aula 21	07-07-21	Deploying TinyML Applications on Embedded Devices
-+ aula 22	07-07-21	Demo/Lab
-+ aula 23	14-07-21	Collecting a Custom TinyML Dataset
-+ aula 24	14-07-21	Demo/Lab
-+ aula 25	21-07-21	Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition
-+ aula 26	21-07-21	Demo/Lab
-+ aula 27	28-07-21	Profiling and Optimization of TinyML Applications
-+ aula 28	28-07-21	Responsible AI
++ Aula 21 - Deploying TinyML Applications on Embedded Devices
++ Aula 22 - Demo/Lab
++ Aula 23 - Collecting a Custom TinyML Dataset
++ Aula 24 - Demo/Lab
++ Aula 25 - Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition
++ Aula 26 - Demo/Lab
++ Aula 27 - Profiling and Optimization of TinyML Applications
++ Aula 28 - Responsible AI
 
 ### Conclusão
-+ aula 29	04-08-21	Group Presentations 
-+ aula 30	04-08-21	Group Presentations 
++ Aula 29 - Group Presentations 
++ Aula 30 - Group Presentations 
