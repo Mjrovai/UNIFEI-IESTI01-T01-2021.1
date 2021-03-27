@@ -101,8 +101,7 @@ A atual versão deste curso tem como principais referencias:
 + aula 27	28-07-21	Profiling and Optimization of TinyML Applications
 + aula 28	28-07-21	Responsible AI
 + aula 29	04-08-21	Group Presentations 
-+ aula 30	04-08-21	Group Presentations ![image](https://user-images.githubusercontent.com/17109416/112723069-8f71f100-8eeb-11eb-8b94-98f3a52be819.png)
-
++ aula 30	04-08-21	Group Presentations 
 
 ## Chapter 1: Welcome to TinyML
 The goal of this chapter is to introduce the students to the core concepts, challenges, and opportunites of TinyML. It will also give an overview of the entire specialization; how the courses are structured and what to expect as a student steping through the curriculum.
