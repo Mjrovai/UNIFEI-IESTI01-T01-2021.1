@@ -80,12 +80,12 @@ A atual versão deste curso tem como principais referencias:
 + Aula 2 - Introduction to TinyML  [[Slides]](slides/TinyML_Intro.pdf)
 + Aula 3 - Installing Jupyter Notebook & using of Google CoLab [[Docs]](docs/Tips_for_using_Colab.pdf)
 + Aula 4 - Python and Machine Learning Review  [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
-+ Aula 5 - Deep Learning 1a: A Single Neuron; Deep Neural Networks (DNN)
-+ Aula 6 - Deep Learning 1b: Stochastic Gradient Descent
-+ Aula 7 - Deep Learning 2a: Overfitting and Underfitting; Dropout and Batch Normalization
-+ Aula 8 - Deep Learning 2b: Binary Classification 
-+ Aula 9 - Deep Learning 3a: Computer Vision Overview
-+ Aula 10 - Deep Learning 3b: Convolutional Neural Networks  and Transfer Learning
++ Aula 5 - Deep Learning 1a: A Single Neuron; Deep Neural Networks (DNN) [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
++ Aula 6 - Deep Learning 1b: Stochastic Gradient Descent [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
++ Aula 7 - Deep Learning 2a: Overfitting and Underfitting; Dropout and Batch Normalization [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
++ Aula 8 - Deep Learning 2b: Binary Classification [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
++ Aula 9 - Deep Learning 3a: Computer Vision Overview [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
++ Aula 10 - Deep Learning 3b: Convolutional Neural Networks  and Transfer Learning [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
 
 ### Parte 2: Applications
 + Aula 11 - AI Lifecycle and ML Workflow
