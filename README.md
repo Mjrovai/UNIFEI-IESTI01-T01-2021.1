@@ -66,7 +66,7 @@ A atual versão deste curso tem como principais referencias:
 + [Marcelo José Rovai]()
 
 ## Planejamento das Classes
-<img src='Class_Schedule.png'/>
+<img src='Class_Schedule_2021.1.png'/>
 
 # Material
 
