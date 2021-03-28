@@ -74,6 +74,7 @@ A atual versão deste curso tem como principais referencias:
 <img src='assignments.png'/>
 
 ## Material (All in English)
+`All material will be uploaded to this repo at the classes' base.`
 
 ### Optional readings pre-course:
 + Pre-course: Suggested readings : [[Papers/articles]](docs/pre-course/)
