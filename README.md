@@ -3,7 +3,8 @@
 
 <img src='IESTI_2.jpg'/>
 
-`NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
+`
+NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
 
 ## Visão geral do curso
 
