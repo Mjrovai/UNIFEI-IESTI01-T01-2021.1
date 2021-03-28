@@ -3,6 +3,7 @@
 
 <img src='IESTI_2.jpg'/>
 <figcaption>IESTI - UNIFEI Campus de Itajubá</figcaption>
+<hr>
 
 `
 NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
