@@ -1,7 +1,7 @@
 # UNIFEI-IESTI01-T01-2021.1
 ## Course Repository - TinyML - Machine Learning for Embedding Devices
 
-<img src='IESTI_1.jpg'/>
+<img src='IESTI_2.jpg'/>
 
 `NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
 
