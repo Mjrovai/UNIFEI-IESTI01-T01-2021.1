@@ -57,7 +57,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 + Noções de Algebra linear, probabilidade básica e estatística. Muitos tópicos de ML giram em torno de compreender operações e notação de vetores e matrizes, bem como conceitos de distribuições gaussianas, médias, desvios-padrão etc.
 
 ## Metodologia/Recursos: 
-+ As aulas serão ministradas de maneira remota pela plataforma Google Meet.
++ As aulas serão ministradas de maneira remota e ao vivo pela plataforma Google Meet, todas as quartas-feiras das 16:30h às 18:30h. As gravações das aulas estarão disponíveis aos alunos. 
 + Exercícios e projetos poderão ser desenvolvidos em computadores pessoais com TensorFlow V.2x instalados ou utilizando-se ferramentas on-line como [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb).
 + Modelos reais de TinyML serão desenvolvidos e treinados utilizando-se do [Edge Impulse Studio](https://www.edgeimpulse.com/).
 + Para a captura de dados e deployment dos modelos treinados serão utilizados ao menos smart-phones dotados de sensores do tipo: acelerometro, microfone e camera
