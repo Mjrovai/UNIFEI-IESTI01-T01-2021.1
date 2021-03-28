@@ -2,7 +2,7 @@
 ## Course Repository - TinyML - Machine Learning for Embedding Devices
 
 <img src='IESTI_2.jpg'/>
-<figcaption><a href='https://unifei.edu.br/iesti/'>IESTI - UNIFEI Campus de Itajubá</a></figcaption>
+<figcaption><a href='https://unifei.edu.br/iesti/'>Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá</a></figcaption>
 <hr>
 
 `
