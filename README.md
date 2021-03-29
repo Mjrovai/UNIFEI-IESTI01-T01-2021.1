@@ -6,11 +6,11 @@
 <hr>
 
 `
-NOTA: O curso será ministrado majoritariamente em português, mas uma base de ingles será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
+NOTA: O curso será ministrado majoritariamente em português, mas uma base de inglês será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
 
 ## Visão geral do curso
 
-TinyML é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcados com ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF MIcro), permitirá a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). 
+TinyML é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcados com ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF Micro), permitirá a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). 
 
 O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plataformas como TensorFlow (TF) o tornam um tópico de estudo indispensável para estudantes de Engenharia Eletrônica, da Computação e Controle & Automação. 
 
@@ -38,7 +38,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 +	Visão geral do hardware de dispositivos baseados em microcontroladores
 +	Visão geral do software por trás de dispositivos baseados em microcontroladores
 +	Projetos reais utilizando plataformas de mercado
-+	Design, Desenvolvimento e Implantação de uma IA responsável
++	Design, desenvolvimento e Implantação de uma IA responsável
 
 ## Carga horária: 
 +	30hs (Classes de 2hs, durante 15 semanas) 
@@ -46,21 +46,21 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 +	15hs em pesquisas e estudos individuais + trabalho final (em grupo)
 
 ## Processo de aprovação:
-+	Listas de Exercicios (Jupyter Notebook): 40%
++	Listas de exercícios (Jupyter Notebook): 40%
 +	Projetos práticos (Labs): 30%
 +	Projeto Final (com apresentação): 30%
 
 ## Pré-requisitos
 + Conhecimentos do idioma inglês (leitura).
-+ Conhecimentos básicos de programação em  C / C ++ (Arduino IDE) e Python. Todas as tarefas de classe envolverão uma ou ambos linguages de programação.
++ Conhecimentos básicos de programação em  C / C ++ (Arduino IDE) e Python. Todas as tarefas de classe envolverão uma ou ambas linguagens de programação.
 + Familiaridade com ferramentas de linha de comando em Mac, Windows ou Linux. Os projetos exigirão operações em um terminal.
 + Noções de Algebra linear, probabilidade básica e estatística. Muitos tópicos de ML giram em torno de compreender operações e notação de vetores e matrizes, bem como conceitos de distribuições gaussianas, médias, desvios-padrão etc.
 
 ## Metodologia/Recursos: 
-+ As aulas serão ministradas de maneira remota e ao vivo pela plataforma Google Meet, todas as quartas-feiras das 16:30h às 18:30h. As gravações das aulas estarão disponíveis aos alunos. 
-+ Exercícios e projetos poderão ser desenvolvidos em computadores pessoais com TensorFlow V.2x instalados ou utilizando-se ferramentas on-line como [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb).
++ As aulas serão ministradas de maneira remota e ao vivo (aulas síncronas) pela plataforma Google Meet, todas as quartas-feiras das 16:30h às 18:30h. As gravações das aulas estarão disponíveis aos alunos para revisão. 
++ Exercícios e projetos poderão ser desenvolvidos em computadores pessoais com TensorFlow V.2x instalados ou utilizando-se de ferramentas on-line como [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb).
 + Modelos reais de TinyML serão desenvolvidos e treinados utilizando-se do [Edge Impulse Studio](https://www.edgeimpulse.com/).
-+ Para a captura de dados e deployment dos modelos treinados serão utilizados ao menos smart-phones dotados de sensores do tipo: acelerometro, microfone e camera
++ Para a captura de dados e deployment dos modelos treinados serão utilizados ao menos smart-phones dotados de sensores do tipo: acelerômetro, microfone e camera
 + Opcionalmente serão também utilizados MCUs como Arduino BLE Sense (Cortex-M4) e Raspberry Pi-Pico (RP2040). 
 
 ## Professor do curso:
