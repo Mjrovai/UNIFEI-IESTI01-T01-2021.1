@@ -80,7 +80,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 `All material will be uploaded to this repo at the classes' base.`
 
 ### Optional readings pre-course:
-+ Pre-course: Suggested readings : [[Papers/articles]](00_Curso_Folder/0_Pre_Course/)
++ Pre-course: Suggested readings : [[Papers/articles]](00_Curso_Folder/0_Pre-Course/)
 
 ### Parte 1: Fundamentals 
 + Aula 1 - About the Course and Syllabus
