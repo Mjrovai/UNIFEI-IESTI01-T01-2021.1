@@ -82,7 +82,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 ### Optional pre-course activities:
 + Pre-course:  : [[Suggested readings]](00_Curso_Folder/0_Pre-Course/)
 + Pre-course:  : [[Jupyter Notebook]](/00_Curso_Folder/1_Fundamentals/Class_3/)
-+ Pre-course:  : [[Python Review]](00_Curso_Folder/1_Fundamentals/Class_4/notebooks/)
++ Pre-course:  : [[Python Review]](00_Curso_Folder/1_Fundamentals/Class_4)
 
 ### Parte 1: Fundamentals 
 + Class 1 - About the Course and Syllabus
