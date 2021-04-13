@@ -85,7 +85,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 ### Parte 1: Fundamentals 
 + Aula 1 - About the Course and Syllabus
 + Aula 2 - Introduction to TinyML  [[Slides]](slides/TinyML_Intro.pdf)
-+ Aula 3 - Installing Jupyter Notebook & using of Google CoLab [[Docs]](docs/Tips_for_using_Colab.pdf)
++ Aula 3 - Installing Jupyter Notebook & using of Google CoLab [[Docs]](/00_Curso_Folder/1_Fundamentals/Class_3/)
 + Aula 4 - Python and Machine Learning Review  [[Slides]](slides/x.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_4/docs/) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_4/notebooks/) 
 + Aula 5 - Deep Learning 1a: A Single Neuron; Deep Neural Networks (DNN) [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
 + Aula 6 - Deep Learning 1b: Stochastic Gradient Descent [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
