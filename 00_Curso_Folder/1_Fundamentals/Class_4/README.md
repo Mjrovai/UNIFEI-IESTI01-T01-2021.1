@@ -1,9 +1,9 @@
-# A Whirlwind Tour of Python
+## A Whirlwind Tour of Python
 - [e-book in pdf](/00_Curso_Folder/1_Fundamentals/Class_4/docs/A-whirlwind-tour-of-python.pdf) 
 - [e-book content available on Github in the form of Jupyter Notebook](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 
-# Python Review
+## Python4DS (Python for data Science) Review
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/1_python_Intro.ipynb) [1_python_Intro.ipynb](/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/1_python_Intro.ipynb) 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/2_functions-and-getting-help.ipynb) [2_functions-and-getting-help.ipynb](/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/2_functions-and-getting-help.ipynb) 
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/3_booleans-and-conditionals.ipynb) [3_booleans-and-conditionals.ipynb](/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/3_booleans-and-conditionals.ipynb) 
