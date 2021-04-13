@@ -1,6 +1,6 @@
 
 # Python Review
-1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/1_python_Intro.ipynb) Introduction and fundamentals 
+1. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/1_python_Intro.ipynb) [1_python_Intro.ipynb](/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/1_python_Intro.ipynb) 
 2. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/2_functions-and-getting-help.ipynb) Functions and getting help
 3. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/3_booleans-and-conditionals.ipynb) Booleans and conditionals
 4. [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/2_functions-and-getting-help.ipynb) Functions and getting help
