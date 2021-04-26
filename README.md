@@ -46,7 +46,8 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 +	15hs em pesquisas e estudos individuais + trabalho final (em grupo)
 
 ## Processo de aprovação:
-+	Listas de exercícios (Jupyter Notebook): 40%
++ Participação individual em classe: 10%
++	Listas de exercícios (Jupyter Notebook): 30%
 +	Projetos práticos (Labs): 30%
 +	Projeto Final (com apresentação): 30%
 
