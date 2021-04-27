@@ -1,7 +1,7 @@
 # UNIFEI-IESTI01-T01-2021.1
 ## Course Repository - TinyML - Machine Learning for Embedding Devices
 
-<img src='IESTI_2.jpg'/>
+<img src='images/IESTI_2.jpg'/>
 <figcaption><a href='https://unifei.edu.br/iesti/'>Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá</a></figcaption>
 <hr>
 
@@ -61,8 +61,8 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 + As aulas serão ministradas de maneira remota e ao vivo (aulas síncronas) pela plataforma Google Meet, todas as quartas-feiras das 16:30h às 18:30h. As gravações das aulas estarão disponíveis aos alunos para revisão. 
 + Exercícios e projetos poderão ser desenvolvidos em computadores pessoais com TensorFlow V.2x instalados ou utilizando-se de ferramentas on-line como [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb).
 + Modelos reais de TinyML serão desenvolvidos e treinados utilizando-se do [Edge Impulse Studio](https://www.edgeimpulse.com/).
-+ Para a captura de dados e deployment dos modelos treinados serão utilizados ao menos smart-phones dotados de sensores do tipo: acelerômetro, microfone e camera
-+ Opcionalmente serão também utilizados MCUs como Arduino BLE Sense (Cortex-M4) e Raspberry Pi-Pico (RP2040). 
++ Para a captura de dados e deployment dos modelos treinados (Parte 2) deverão ser utilizados smart-phones pessoais dotados de pelo menos sensores do tipo: acelerômetro, microfone e camera.
++ Na parte 3 do curso será também utilizado um Kit composto de um Arduino BLE Sense (Cortex-M4) e uma camera digital modelo OV7675 (disponibilizado pela universidade e enviado diretamante aos alunos). 
 
 ## Professor do curso:
 + [Marcelo José Rovai](https://medium.com/@rovai)
@@ -72,10 +72,10 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 + [José Alberto Ferreira](http://lattes.cnpq.br/8319509175327154)
 
 ## Planejamento das Classes (Turma 1 - 2021.1)
-<img src='Class_Schedule_2021.1.png'/>
+<img src='images/Class_Schedule.png'/>
 
 ## Planejamento das Tarefas/Trabalhos (Turma 1 - 2021.1)
-<img src='assignments.png'/>
+<img src='images/Assignments_Schedule.png'/>
 
 ## Material (All in English)
 `All material will be uploaded to this repo at the classes' base.`
