@@ -14,7 +14,7 @@ The free 7' video "Installing Jupyter Notebook" that is part of Udemy's tutorial
 Google Colaboratory or [CoLab] (https://colab.research.google.com/notebooks/intro.ipynb)for short, allows you to write and execute Python in your browser, with
 zero configuration required, free access to GPUs and easy sharing. 
 
-- Follow the [Tips_for_using_Colab](/00_Curso_Folder/1_Fundamentals/Class_4/Docs/Tips_for_using_Colab.pdf), to use it properly.
+- Follow the [Tips_for_using_Colab](/00_Curso_Folder/1_Fundamentals/Class_4/docs/Tips_for_using_Colab.pdf), to use it properly.
 
 ## A Whirlwind Tour of Python
 - [e-book in pdf](/00_Curso_Folder/1_Fundamentals/Class_4/docs/A-whirlwind-tour-of-python.pdf) 
