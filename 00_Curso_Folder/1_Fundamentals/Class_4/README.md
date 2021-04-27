@@ -14,4 +14,4 @@ You can download the notebooks running them locally on your machine, or using Go
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](http://colab.research.google.com/github/Mjrovai/UNIFEI-IESTI01-T01-2021.1/blob/main/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/7_working-with-external-libraries.ipynb) [7_working-with-external-libraries.ipynb](/00_Curso_Folder/1_Fundamentals/Class_4/notebooks/7_working-with-external-libraries.ipynb)
 
 ## Main Python Libraries cheatsheets, handouts and tips
-- [docs](/00_Curso_Folder/1_Fundamentals/Class_4/docs/) 
+- [Docs](/00_Curso_Folder/1_Fundamentals/Class_4/docs/) 
