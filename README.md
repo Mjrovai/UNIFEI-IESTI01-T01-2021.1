@@ -87,7 +87,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 
 ### Parte 1: Fundamentals 
 + Class 1 - About the Course and Syllabus [[Slides]](00_Curso_Folder/1_Fundamentals/Class_1/IESTI01_TinyML_class_1.pdf)
-+ Class 2 - Introduction to TinyML [[Slides]](00_Curso_Folder/1_Fundamentals/Class_1/IESTI01_TinyML_class_2.pdf)
++ Class 2 - Introduction to TinyML [[Slides]](00_Curso_Folder/1_Fundamentals/Class_2/IESTI01_TinyML_class_2.pdf)
 + Class 3 - TinyML - Challenges
 + Class 4 - Jupyter Notebook, CoLab and Python Review [[Docs]](00_Curso_Folder/1_Fundamentals/Class_4/docs/) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_4/notebooks/)  
 + Class 5 - The Machine Learning Paradigm
