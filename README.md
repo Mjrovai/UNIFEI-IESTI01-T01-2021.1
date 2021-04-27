@@ -82,7 +82,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 
 ### Optional pre-course activities:
 + Pre-course:  : [[Suggested readings]](00_Curso_Folder/0_Pre-Course/)
-+ Pre-course:  : [[Jupyter Notebook]](/00_Curso_Folder/1_Fundamentals/Class_3/)
++ Pre-course:  : [[Jupyter Notebook and CoLab]](/00_Curso_Folder/1_Fundamentals/Class_4/)
 + Pre-course:  : [[Python Review]](00_Curso_Folder/1_Fundamentals/Class_4)
 
 ### Parte 1: Fundamentals 
@@ -98,26 +98,26 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 + Class 10 - TinyML Fundamentals Summary - Group Project rules!
 
 ### Parte 2: Applications
-+ Class 11 - AI Lifecycle and ML Workflow [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 12 - AI Lifecycle and ML Workflow 
-+ Class 13 - Machine Learning on Mobile and Edge IoT Devices [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 14 - Machine Learning on Mobile and Edge IoT Devices
-+ Class 15 - Keyword Spotting [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 16 - Lab KWS [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 17 - Visual Wake Words [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 18 - Lab VWW [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 19 - Anomaly Detection [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 20 - Lab Gesture Classification and Anomaly Detection [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Class 11 - Preview of TinyML Applications
++ Class 12 - AI Lifecycle and ML Workflow
++ Class 13 - Machine Learning on Mobile and Edge IoT Devices
++ Class 14 - Introduction to Edge Impulse Studio
++ Class 15 - Keyword Spotting
++ Class 16 - Lab KWS
++ Class 17 - Visual Wake Words
++ Class 18 - Lab VWW
++ Class 19 - Anomaly Detection
++ Class 20 - Lab Gesture Classification and Anomaly Detection![image]
 
 ### Parte 3: Deploying
-+ Class 21 - Deploying TinyML Applications on Embedded Devices [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 22 - Demo/Lab
-+ Class 23 - Collecting a Custom TinyML Dataset [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Class 21 - Deploying TinyML Applications on Embedded Devices
++ Class 21 - Demo/Lab
++ Class 23 - Collecting a Custom TinyML Dataset
 + Class 24 - Demo/Lab
-+ Class 25 - Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Class 25 - Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition
 + Class 26 - Demo/Lab
-+ Class 27 - Profiling and Optimization of TinyML Applications [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
-+ Class 28 - Responsible AI [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
++ Class 27 - Profiling and Optimization of TinyML Applications
++ Class 28 - Responsible AI
 
 ### Conclusion
 + Class 29 - Group Presentations 
