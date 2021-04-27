@@ -89,16 +89,13 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 + Class 1 - About the Course and Syllabus
 + Class 2 - Introduction to TinyML
 + Class 3 - TinyML - Challenges
-+ Class 4 - Jupyter Notebook, CoLab and Python Review
++ Class 4 - Jupyter Notebook, CoLab and Python Review [[Docs]](00_Curso_Folder/1_Fundamentals/Class_4/docs/) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_4/notebooks/)  
 + Class 5 - The Machine Learning Paradigm
 + Class 6 - The Building Blocks of Deep Learning
 + Class 7 - Exploring Machine Learning Scenarios
 + Class 8 - Building a Computer Vision Model
 + Class 9 - Responsible AI Design
 + Class 10 - TinyML Fundamentals Summary - Group Project rules!
-
-+ Class 3 - Installing Jupyter Notebook & using of Google CoLab [[Docs]](/00_Curso_Folder/1_Fundamentals/Class_3/)
-+ Class 4 - Python and Machine Learning Review  [[Slides]](slides/x.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_4/docs/) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_4/notebooks/)  
 
 ### Parte 2: Applications
 + Class 11 - AI Lifecycle and ML Workflow [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
