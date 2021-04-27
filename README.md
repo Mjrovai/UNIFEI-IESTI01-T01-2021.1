@@ -87,15 +87,18 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 
 ### Parte 1: Fundamentals 
 + Class 1 - About the Course and Syllabus
-+ Class 2 - Introduction to TinyML  [[Slides]](slides/TinyML_Intro.pdf)
++ Class 2 - Introduction to TinyML
++ Class 3 - TinyML - Challenges
++ Class 4 - Jupyter Notebook, CoLab and Python Review
++ Class 5 - The Machine Learning Paradigm
++ Class 6 - The Building Blocks of Deep Learning
++ Class 7 - Exploring Machine Learning Scenarios
++ Class 8 - Building a Computer Vision Model
++ Class 9 - Responsible AI Design
++ Class 10 - TinyML Fundamentals Summary - Group Project rules!
+
 + Class 3 - Installing Jupyter Notebook & using of Google CoLab [[Docs]](/00_Curso_Folder/1_Fundamentals/Class_3/)
-+ Class 4 - Python and Machine Learning Review  [[Slides]](slides/x.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_4/docs/) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_4/notebooks/) 
-+ Class 5 - Deep Learning 1a: A Single Neuron; Deep Neural Networks (DNN) [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
-+ Class 6 - Deep Learning 1b: Stochastic Gradient Descent [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
-+ Class 7 - Deep Learning 2a: Overfitting and Underfitting; Dropout and Batch Normalization [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
-+ Class 8 - Deep Learning 2b: Binary Classification [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
-+ Class 9 - Deep Learning 3a: Computer Vision Overview [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
-+ Class 10 - Deep Learning 3b: Convolutional Neural Networks  and Transfer Learning [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf) [[Notebooks]](notebooks/xxx) 
++ Class 4 - Python and Machine Learning Review  [[Slides]](slides/x.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_4/docs/) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_4/notebooks/)  
 
 ### Parte 2: Applications
 + Class 11 - AI Lifecycle and ML Workflow [[Slides]](slides/x.pdf) [[Docs]](docs/doc.pdf)
