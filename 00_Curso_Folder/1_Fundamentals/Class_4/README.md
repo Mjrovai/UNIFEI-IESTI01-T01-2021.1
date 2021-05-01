@@ -38,4 +38,4 @@ You can download the notebooks running them locally on your machine, or using Go
 - [Docs](/00_Curso_Folder/1_Fundamentals/Class_4/docs/) 
 
 ## TensorFlow
-- For machine learning in this course we are going to use Google’s TensorFlow Machine Learning framework. TensorFlow is widely used across industry and academia. To get you started with TensorFlow here is Google’s wonderful [intro to TensorFlow video.](https://www.youtube.com/watch?v=yjprpOoH5c80)
+For machine learning in this course we are going to use Google’s TensorFlow Machine Learning framework. TensorFlow is widely used across industry and academia. To get you started with TensorFlow here is Google’s wonderful [intro to TensorFlow video.](https://www.youtube.com/watch?v=yjprpOoH5c80)
