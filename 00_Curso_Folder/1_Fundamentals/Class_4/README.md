@@ -11,7 +11,7 @@ You can install Jupyter Notebook using:
 The free 7' video "Installing Jupyter Notebook" that is part of Udemy's tutorial [Python and Jupyter Notebooks for beginners](https://www.udemy.com/course/python-and-jupyter-notebooks-for-beginners/) can guide you on how to install and run notebooks on your machine.
 
 ## Google CoLab
-Google Colaboratory or [CoLab](https://colab.research.google.com/notebooks/intro.ipynb)for short, allows you to write and execute Python in your browser, with
+Google Colaboratory or [CoLab](https://colab.research.google.com/notebooks/intro.ipynb) for short, allows you to write and execute Python in your browser, with
 zero configuration required, free access to GPUs and easy sharing. Google Colab is also an online integrated developer environment to design, train, and test our machine learning models.
 
 - Here is an introduction to Google Colab. [Watch Jake VanderPlas from Google give a wonderful intro to Colab.](https://www.youtube.com/watch?v=inN8seMm7UI)
