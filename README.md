@@ -21,6 +21,8 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 + [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 + [Introduction to Embedded Machine Learning (Coursera)](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 
+IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa para tornar a ensino do TinyML disponível para todos em todo o mundo.
+
 ## Tópicos do curso
 
 +	Fundamentos de IoT
