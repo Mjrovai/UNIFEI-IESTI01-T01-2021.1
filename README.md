@@ -6,7 +6,7 @@
 <hr>
 
 `
-NOTA: O curso será ministrado majoritariamente em português, mas uma base de inglês será fundamental para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
+NOTA: O curso será ministrado majoritariamente em português, mas uma base de inglês será fundamental ao aluno para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
 
 ## Visão geral do curso
 
@@ -20,6 +20,7 @@ A atual versão deste curso, pioneiro na América Latina, tem como principais re
 + [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
 + [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 + [Introduction to Embedded Machine Learning (Coursera)](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
++ Text Book: ["TinyML" by Pete Warden, Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/)
 
 IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa para tornar a ensino do TinyML disponível para todos em todo o mundo.
 
