@@ -85,8 +85,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 
 ### Optional pre-course activities:
 + Pre-course:  : [[Suggested readings]](00_Curso_Folder/0_Pre-Course/)
-+ Pre-course:  : [[Jupyter Notebook and CoLab]](/00_Curso_Folder/1_Fundamentals/Class_4/)
-+ Pre-course:  : [[Python Review]](00_Curso_Folder/1_Fundamentals/Class_4)
++ Pre-course:  : [[Jupyter Notebook, CoLab and Python Review]](/00_Curso_Folder/1_Fundamentals/Class_4/)
 
 ### Parte 1: Fundamentals 
 + Class 1 - About the Course and Syllabus [[Slides]](00_Curso_Folder/1_Fundamentals/Class_1/IESTI01_TinyML_class_1.pdf) [[Video]](https://youtu.be/xjhSqpBugcA)
