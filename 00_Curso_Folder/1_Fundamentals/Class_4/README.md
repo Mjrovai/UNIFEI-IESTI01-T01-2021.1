@@ -39,7 +39,7 @@ You can download the notebooks running them locally on your machine, or using Go
 ## Main Python Libraries cheatsheets, handouts and tips
 - [Docs](/00_Curso_Folder/1_Fundamentals/Class_4/docs/) 
 
-## Class 4 video + Pandas Waking-Through 
+## Class 4 video + Pandas Walking-Trough 
 - [[Video]](https://youtu.be/tEp6hEOOT8Y)
 
 ## Introduction to TensorFlow
