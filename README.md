@@ -93,9 +93,9 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 3 - TinyML - Challenges [[Slides]](00_Curso_Folder/1_Fundamentals/Class_3/IESTI01_TinyML_class_3.pdf)[[Extras]](00_Curso_Folder/1_Fundamentals/Class_3/) [[Video]](https://youtu.be/PBJtvBaX2_w)
 + Class 4 - Jupyter Notebook, CoLab and Python Review [[Docs]](00_Curso_Folder/1_Fundamentals/Class_4/docs/) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_4/) [[Video]](https://youtu.be/tEp6hEOOT8Y)
 + Class 5 - The Machine Learning Paradigm [[Slides]](00_Curso_Folder/1_Fundamentals/Class_5/IESTI01_TinyML_class_5.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_5/docs/) [[Video]](https://youtu.be/E3tw9wpaAHg)
-+ Class 6 - The Building Blocks of Deep Learning - Regression with DSS [[Slides]](00_Curso_Folder/1_Fundamentals/Class_6/IESTI01_TinyML_class_6.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_6/docs/) [[Video]](https://youtu.be/VAIkoEZsJGk)
-+ Class 7 - Exploring Machine Learning Scenarios
-+ Class 8 - Building a Computer Vision Model
++ Class 6 - The Building Blocks of Deep Learning - Introduction [[Slides]](00_Curso_Folder/1_Fundamentals/Class_6/IESTI01_TinyML_class_6.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_6/docs/) [[Video]](https://youtu.be/VAIkoEZsJGk)
++ Class 7 - The Building Blocks of Deep Learning - Regression with DSS [[Slides]](00_Curso_Folder/1_Fundamentals/Class_7/IESTI01_TinyML_class_7.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_7/docs/)
++ Class 8 - The Building Blocks of Deep Learning - Classification with DSS [[Slides]](00_Curso_Folder/1_Fundamentals/Class_8/IESTI01_TinyML_class_8.pdf) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_8/docs/)
 + Class 9 - Responsible AI Design
 + Class 10 - TinyML Fundamentals Summary - Group Project rules!
 
