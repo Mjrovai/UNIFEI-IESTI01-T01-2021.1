@@ -96,8 +96,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 6 - The Building Blocks of Deep Learning (DL) - Introduction [[Slides]](00_Curso_Folder/1_Fundamentals/Class_6/IESTI01_TinyML_class_6.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_6/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_6/docs/) [[Video]](https://youtu.be/VAIkoEZsJGk)
 + Class 7 - The Building Blocks of DL - Regression with DSS [[Slides]](00_Curso_Folder/1_Fundamentals/Class_7/IESTI01_TinyML_class_7.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_7/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_7/docs/) [[Video]](https://youtu.be/2a0PVIlWnZY)
 + Class 8 - The Building Blocks of DL - Classification with DSS [[Slides]](00_Curso_Folder/1_Fundamentals/Class_8/IESTI01_TinyML_class_8.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_8/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_8/docs/) [[Video]](https://youtu.be/Xg5sKX-BgwM)
-+ Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics
-+ Class 10 - The Building Blocks of DL - Convolution (CNN)
++ Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics [[Slides]](00_Curso_Folder/1_Fundamentals/Class_9/IESTI01_TinyML_class_9.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_9/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_9/docs/) 
++ Class 10 - Introducing Convolutions (CNN) [[Slides]](00_Curso_Folder/1_Fundamentals/Class_10/IESTI01_TinyML_class_10.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_10/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_10/docs/) 
 
 ### Parte 2: Applications
 + Class 11 - Preview of TinyML Applications
