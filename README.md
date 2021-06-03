@@ -102,16 +102,14 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 12 - Preventing Overfitting [[Slides]](00_Curso_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_12/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_12/docs/) [[Video]](https://youtu.be/LyuSA4Lsnmw)
 
 ### Parte 2: Applications
-+ Class 11 - Preview of TinyML Applications
-+ Class 12 - AI Lifecycle and ML Workflow
-+ Class 13 - Machine Learning on Mobile and Edge IoT Devices
-+ Class 14 - Introduction to Edge Impulse Studio
-+ Class 15 - Keyword Spotting
-+ Class 16 - Lab KWS
-+ Class 17 - Visual Wake Words
-+ Class 18 - Lab VWW
-+ Class 19 - Anomaly Detection
-+ Class 20 - Lab Gesture Classification and Anomaly Detection![image]
++ Class 13 - Preview of TinyML Applications
++ Class 14 - AI Lifecycle and ML Workflow
++ Class 15 - Machine Learning on Mobile and Edge IoT Devices
++ Class 16 - Introduction to Edge Impulse Studio
++ Class 17 - Anomaly Detection
++ Class 18 - Lab Gesture Classification and Anomaly Detection.
++ Class 19 - Keyword Spotting
++ Class 20 - Lab KWS
 
 ### Parte 3: Deploying
 + Class 21 - Deploying TinyML Applications on Embedded Devices
