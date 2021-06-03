@@ -99,7 +99,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 9 - The Building Blocks of DL - DNN Recap, Datasets and Model Performance Metrics [[Slides]](00_Curso_Folder/1_Fundamentals/Class_9/IESTI01_TinyML_class_9.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_9/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_9/docs/) [[Video]](https://youtu.be/7UMUv-cTshQ)
 + Class 10 - Introducing Convolutions (CNN) [[Slides]](00_Curso_Folder/1_Fundamentals/Class_10/IESTI01_TinyML_class_10.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_10/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_10/docs/) [[Video]](https://youtu.be/IBiRBH2oVzc)
 + Class 11 - Convolutions (CNN) Recap [[Slides]](00_Curso_Folder/1_Fundamentals/Class_11/IESTI01_TinyML_class_11.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_11/) [[Video]](https://youtu.be/orR_CKey9Sk)
-+ Class 12 - Preventing Overfitting [[Slides]](00_Curso_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_12/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_12/docs/) [[Video]](https://youtu.be/LyuSA4Lsnmw)
++ Class 12 - Preventing Overfitting [[Slides]](00_Curso_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_12/WDBC_Project/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_12/docs/) [[Video]](https://youtu.be/LyuSA4Lsnmw)
 
 ### Parte 2: Applications
 + Class 13 - Preview of TinyML Applications
