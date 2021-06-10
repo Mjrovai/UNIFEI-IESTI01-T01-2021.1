@@ -1,5 +1,5 @@
 # Going further with Machine Learning
-Now that we finished the first part of the course, it is time to start appliying all the Machine Learning concepts on real TinyML applications. But before, let's try to help the students that would like to learn more about ML (Note that going deeper is really not necessary for the TinyML course). The suggestions below are regarding online courses that are offered mainly by Coursera, EDX and Kaggle. All courses can be done by free (w/o certificate). 
+Now that we finished the first part of the course, it is time to apply all the Machine Learning concepts to real TinyML applications. But before, let's try to help the students that would like to learn more about ML (Note that going deeper is not necessary for the TinyML course). The suggestions below are regarding online courses that are offered mainly by Coursera, EDX, and Kaggle. All courses can be done for free (w/o certificate).
 
 ## Python
 First of all, everything starts with Python. Learning Python is not just a prerequisite for getting into machine learning, but it’s an investment that will help your career for the rest of your life.
@@ -13,8 +13,7 @@ The [Python for Everybody specialization](https://www.coursera.org/specializatio
 Another great course (in Portuguese) is [Introdução à Ciência da Computação com Python Parte 1 e 2](https://pt.coursera.org/learn/ciencia-computacao-python-conceitos)
 
 ## Machine Learning
-Probably the most popular Machine Learning course in the world is [Machine Learning](https://pt.coursera.org/learn/machine-learning). With more than 4 million people enrolled, the course is taught by Andrew Ng and offered by Stanford.
-This is not a course to focus on writing code, but in theory. The course covers the most important aspects of classical machine learning:
+Probably the most popular Machine Learning course in the world is [Machine Learning](https://pt.coursera.org/learn/machine-learning). With more than 4 million people enrolled, the course is taught by Andrew Ng and offered by Stanford. This is not a course to focus on writing code but theory. The course covers the essential aspects of classical machine learning:
 - Linear and Logistic Regression
 - Regularization
 - Neural Networks
@@ -23,10 +22,10 @@ This is not a course to focus on writing code, but in theory. The course covers 
 - Anomaly Detection
 - Recommender Systems
 
-Kaggle also has very simple and short courses about ML: [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) and [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+Kaggle also has elementary and short courses about ML: [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) and [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 ## Deep Learning
-The best [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210107-cs-ppt-coursera-welcome-dls) is also teached by Andrew Ng and offered by DeepLearning.AI  
+The best [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210107-cs-ppt-coursera-welcome-dls) is also taught by Andrew Ng and offered by DeepLearning.AI  
 There are 5 courses on this specialization:
 - Neural Networks and Deep Learning
 - Hyperparameter Tuning, Regularization, and Optimization
@@ -34,7 +33,7 @@ There are 5 courses on this specialization:
 - Convolutional Neural Networks
 - Sequence Models
 
-Kaggle also has very simple and short course about [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+Kaggle also has a straightforward and short course about [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
 
 ## TensorFlow
 Again, the most complete course about TensorFlow is found at DeepLearning.AI: [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice). This specialization has 4 individual courses:
