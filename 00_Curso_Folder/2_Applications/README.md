@@ -1,5 +1,5 @@
 # Going further with Machine Learning
-Now that we finished the first part of the course, it is time to start appliying all the Machine Learning concepts on real TinyML applications. But before, let's try to help the students that would like to learn more about ML. The suggestions below are regarding online courses that are offered mainly by Coursera, EDX and Kaggle. All courses can be done by free (w/o certificate). 
+Now that we finished the first part of the course, it is time to start appliying all the Machine Learning concepts on real TinyML applications. But before, let's try to help the students that would like to learn more about ML (Note that going deeper is really not necessary for the TinyML course). The suggestions below are regarding online courses that are offered mainly by Coursera, EDX and Kaggle. All courses can be done by free (w/o certificate). 
 
 ## Python
 First of all, everything starts with Python. Learning Python is not just a prerequisite for getting into machine learning, but it’s an investment that will help your career for the rest of your life.
@@ -23,7 +23,7 @@ This is not a course to focus on writing code, but in theory. The course covers 
 - Anomaly Detection
 - Recommender Systems
 
-Kaggle also has a very simple and short course about ML: [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) and [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+Kaggle also has very simple and short courses about ML: [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) and [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
 
 ## Deep Learning
 The best [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=20210107-cs-ppt-coursera-welcome-dls) is also teached by Andrew Ng and offered by DeepLearning.AI  
@@ -33,4 +33,14 @@ There are 5 courses on this specialization:
 - Structuring Machine Learning Projects
 - Convolutional Neural Networks
 - Sequence Models
+
+Kaggle also has very simple and short course about [Intro to Deep Learning](https://www.kaggle.com/learn/intro-to-deep-learning)
+
+## TensorFlow
+Again, the most complete course about TensorFlow is found at DeepLearning.AI: [TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice). This specialization has 4 individual courses:
+- Introduction to TensorFlow
+- Convolutional Neural Networks
+- Natural Language Processing
+- Sequences, Time Series, and Prediction
+
 
