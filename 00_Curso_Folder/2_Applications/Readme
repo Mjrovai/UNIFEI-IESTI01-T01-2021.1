@@ -1,0 +1,68 @@
+Everything starts with Python.
+Learning Python is not just a prerequisite for getting into machine learning, but it’s an investment that will help your career for the rest of your life.
+To start, focus all of your energy on learning the language.
+The Python for Everybody specialization offered by the University of Michigan can get you started. With more than 1 million people already enrolled and 4.8-star reviews is an excellent resource.
+You don’t need any prior experience, and at 3 hours per week, it will take you approximately 8 months to complete all 5 courses in the specialization:
+Getting Started
+Data Structures
+Accessing Web Data
+Using Databases
+Retrieving, Processing, and Visualizing Data
+This is a great introduction to a fundamental step to become a machine learning practitioner.
+Time for the fundamentals.
+Probably the most popular Machine Learning course in the world is Machine Learning. With more than 4 million people enrolled, the course is taught by Andrew Ng and offered by Stanford. 4.9-star reviews say a lot about its quality.
+Be ready for some theory, and don’t worry about the lack of Python: this is not a course to focus on writing code. Instead, you’ll cover the most important aspects of classical machine learning, including the following topics:
+Linear and Logistic Regression
+Regularization
+Neural Networks
+Support Vector Machines
+Dimensionality Reduction
+Anomaly Detection
+Recommender Systems
+This course will give you the basic building blocks you’ll need for what’s coming.
+Getting to the next level.
+The Deep Learning specialization offered by DeepLearning.AI is your next stop. Andrew Ng will also be your teacher. This is another 4.9-star review specialization with more than 600,000 people enrolled.
+There are 5 courses on this specialization:
+Neural Networks and Deep Learning
+Hyperparameter Tuning, Regularization, and Optimization
+Structuring Machine Learning Projects
+Convolutional Neural Networks
+Sequence Models
+This is a foundational program that will help you understand the capabilities, challenges, and consequences of deep learning. It will take you around 5 months to complete at a pace of 7 hours every week.
+You’ll need Python for this one, and I’d recommend you complete the Machine Learning course before enrolling.
+Making things practical.
+TensorFlow or PyTorch?
+This seems to be the question that many people face when they are starting.
+Personally, I don’t think it matters, and you can’t go wrong with either one. My experience is exclusive with TensorFlow, so I’ll stick with it here.
+Start with the TensorFlow Developer Professional Certificate offered by DeepLearning.AI. This specialization used to be called “TensorFlow In Practice.” It was renamed to better align it with one of its main goals: help you pass the TensorFlow Developer Certificate offered by Google.
+There are 4 courses in this specialization:
+Introduction to TensorFlow
+Convolutional Neural Networks
+Natural Language Processing
+Sequences, Time Series, and Prediction
+You’ll cover the basics of TensorFlow, and by the end of the specialization, you’ll have what you need to use the framework proficiently.
+To take things one step further, DeepLearning.AI also offers a follow-up specialization called TensorFlow: Advanced Techniques with another 4 courses:
+Custom Models, Layers, and Loss Functions
+Custom and Distributed Training
+Advanced Computer Vision
+Generative Deep Learning
+Both specializations are rated at 4.7 and 4.8, respectively, and are taught by Laurence Moroney, the leader of AI Advocacy at Google.
+Going beyond models.
+To cap things off, DeepLearning.AI released a new specialization just a couple of weeks ago. It’s called Machine Learning Engineering For Production (MLOps), and it focuses on the full machine learning pipeline.
+Machine learning is much more than building models, and this specialization will teach you everything you need to build end-to-end systems.
+There are 4 different courses as part of this specialization:
+Introduction to Machine Learning
+Machine Learning Data Lifecycle
+Machine Learning Modeling Pipelines
+Deploying Machine Learning Models 
+I haven’t finished the specialization yet, but so far, I can recommend it as a must-watch for those planning to make a difference out there.
+TL;DR.
+Six different specializations in Coursera that will help you build a career in machine learning:
+Python for Everybody
+Machine Learning
+Deep Learning
+TensorFlow Developer Professional Certificate
+TensorFlow: Advanced Techniques
+Machine Learning Engineering For Production (MLOps)
+Take them in order, one at a time, and be patient.
+This is a marathon, not a sprint.
