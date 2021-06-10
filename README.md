@@ -102,7 +102,7 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 12 - Preventing Overfitting [[Slides]](00_Curso_Folder/1_Fundamentals/Class_12/IESTI01_TinyML_class_12.pdf) [[Notebooks]](00_Curso_Folder/1_Fundamentals/Class_12/WDBC_Project/) [[Docs]](00_Curso_Folder/1_Fundamentals/Class_12/docs/) [[Video]](https://youtu.be/LyuSA4Lsnmw)
 
 ### Parte 2: Applications
-+ Class 13 - Preview of TinyML Applications [[Slides]](00_Curso_Folder/2_Applications/Class_133IESTI01_TinyML_class_13.pdf) [[Video]](https://youtu.be/gcLSoXWGzyc)
++ Class 13 - Preview of TinyML Applications [[Slides]](00_Curso_Folder/2_Applications/Class_13/IESTI01_TinyML_class_13.pdf) [[Video]](https://youtu.be/gcLSoXWGzyc)
 + Class 14 - AI Lifecycle and ML Workflow
 + Class 15 - Machine Learning on Mobile and Edge IoT Devices
 + Class 16 - Introduction to Edge Impulse Studio
