@@ -104,8 +104,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 ### Parte 2: Applications
 + Class 13 - Preview of TinyML Applications [[Slides]](00_Curso_Folder/2_Applications/Class_13/IESTI01_TinyML_class_13.pdf) [[Video]](https://youtu.be/gcLSoXWGzyc)
 + Class 14 - AI Lifecycle and ML Workflow [[Slides]](00_Curso_Folder/2_Applications/Class_14/IESTI01_TinyML_class_14.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_14/docs/) [[Video]](https://youtu.be/w-L5SCOXCfE)
-+ Class 15 - Machine Learning on Mobile and Edge IoT Devices
-+ Class 16 - Introduction to Edge Impulse Studio
++ Class 15 - Introduction to Edge Impulse Studio [[Slides]](00_Curso_Folder/2_Applications/Class_15/IESTI01_TinyML_class_15.pdf) [[Video]](https://youtu.be/t1AMBsgzYd4)
++ Class 16 - Gesture Classification (EI Studio Project) [[Slides]](00_Curso_Folder/2_Applications/Class_16/IESTI01_TinyML_class_16.pdf) [[Video]](https://youtu.be/ahYlu8bRlQk)
 + Class 17 - Anomaly Detection
 + Class 18 - Lab Gesture Classification and Anomaly Detection.
 + Class 19 - Keyword Spotting
