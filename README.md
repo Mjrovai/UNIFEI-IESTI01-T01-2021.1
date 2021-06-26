@@ -108,8 +108,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 16 - Gesture Classification (EI Studio Project) [[Slides]](00_Curso_Folder/2_Applications/Class_16/IESTI01_TinyML_class_16.pdf) [[Video]](https://youtu.be/ahYlu8bRlQk)
 + Class 17 - Anomaly Detection with TinyML [[Slides]](00_Curso_Folder/2_Applications/Class_17/IESTI01_TinyML_class_17.pdf) [[Notebooks]](00_Curso_Folder/2_Applications/Class_17/) [[Docs]](00_Curso_Folder/2_Applications/Class_17/docs/) [[Video]](https://youtu.be/e6M0v_PCV4M)
 + Class 18 - Data Engineering for TinyML [[Slides]](00_Curso_Folder/2_Applications/Class_18/IESTI01_TinyML_class_18.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_18/docs/)[[Video]](https://youtu.be/s7jFOnd_0F4)
-+ Class 19 - Keyword Spotting
-+ Class 20 - Lab KWS
++ Class 19 - TinyML Kit Overview, Installation and test [[Slides]](00_Curso_Folder/2_Applications/Class_19/IESTI01_TinyML_class_19.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_19/docs/)
++ Class 20 - Lab Gesture Classificatiobn & Anomaly Dertction using MCU
 
 ### Parte 3: Deploying
 + Class 21 - Deploying TinyML Applications on Embedded Devices
