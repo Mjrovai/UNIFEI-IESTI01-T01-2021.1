@@ -110,17 +110,15 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 18 - Data Engineering for TinyML [[Slides]](00_Curso_Folder/2_Applications/Class_18/IESTI01_TinyML_class_18.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_18/docs/)[[Video]](https://youtu.be/s7jFOnd_0F4)
 + Class 19 - TinyML Kit Overview, Installation and test [[Slides]](00_Curso_Folder/2_Applications/Class_19/IESTI01_TinyML_class_19.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_19/docs/) [[Video]](https://youtu.be/K2khnMYzKq8)
 + Class 20 - Lab Gesture Classification & Anomaly Detection using MCU [[Slides]](00_Curso_Folder/2_Applications/Class_20/IESTI01_TinyML_class_20.pdf) [[Video]](https://youtu.be/ziniXLQW54w)
++ Class 21 - Keyword Spotting - Introduction [[Slides]](00_Curso_Folder/2_Applications/Class_21/IESTI01_TinyML_class_21.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_21/docs/) [[Video]]
++ Class 22 - Lab KWS using MCU [[Slides]](00_Curso_Folder/2_Applications/Class_22/IESTI01_TinyML_class_22.pdf) [[Video]]
 
-### Parte 3: Deploying
-+ Class 21 - Deploying TinyML Applications on Embedded Devices
-+ Class 21 - Demo/Lab
-+ Class 23 - Collecting a Custom TinyML Dataset
+### Parte 3: Deploying (TensorFlow Lite / Micro)
++ Class 23 - Deploying TinyML Applications on Embedded Devices using TensorFlow Lite - Micro
 + Class 24 - Demo/Lab
-+ Class 25 - Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition
++ Class 25 - Visual Wake Words 
 + Class 26 - Demo/Lab
-+ Class 27 - Profiling and Optimization of TinyML Applications
++ Class 27 - Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition
 + Class 28 - Responsible AI
-
-### Conclusion
 + Class 29 - Group Presentations 
 + Class 30 - Group Presentations 
