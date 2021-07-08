@@ -110,8 +110,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 18 - Data Engineering for TinyML [[Slides]](00_Curso_Folder/2_Applications/Class_18/IESTI01_TinyML_class_18.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_18/docs/)[[Video]](https://youtu.be/s7jFOnd_0F4)
 + Class 19 - TinyML Kit Overview, Installation and test [[Slides]](00_Curso_Folder/2_Applications/Class_19/IESTI01_TinyML_class_19.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_19/docs/) [[Video]](https://youtu.be/K2khnMYzKq8)
 + Class 20 - Lab Gesture Classification & Anomaly Detection using MCU [[Slides]](00_Curso_Folder/2_Applications/Class_20/IESTI01_TinyML_class_20.pdf) [[Video]](https://youtu.be/ziniXLQW54w)
-+ Class 21 - Keyword Spotting - Introduction [[Slides]](00_Curso_Folder/2_Applications/Class_21/IESTI01_TinyML_class_21.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_21/docs/) [[Video]]
-+ Class 22 - Lab KWS using MCU [[Slides]](00_Curso_Folder/2_Applications/Class_22/IESTI01_TinyML_class_22.pdf) [[Video]]
++ Class 21 - Keyword Spotting - Introduction [[Slides]](00_Curso_Folder/2_Applications/Class_21/IESTI01_TinyML_class_21.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_21/docs/) [[Video]](https://youtu.be/4jXhRvuCKbw)
++ Class 22 - Lab KWS using MCU [[Slides]](00_Curso_Folder/2_Applications/Class_22/IESTI01_TinyML_class_22.pdf) [[Video]](https://youtu.be/cH2cEZhRy8o)
 
 ### Parte 3: Deploying (TensorFlow Lite / Micro)
 + Class 23 - Deploying TinyML Applications on Embedded Devices using TensorFlow Lite - Micro
