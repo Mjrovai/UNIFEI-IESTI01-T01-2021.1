@@ -114,8 +114,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 22 - Lab KWS using MCU [[Slides]](00_Curso_Folder/2_Applications/Class_22/IESTI01_TinyML_class_22.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_22/) [[Video]](https://youtu.be/cH2cEZhRy8o)
 + Class 23 - Lecturer with Daniel Situnayaki, Edge Impulse [[Slides]](00_Curso_Folder/2_Applications/Class_23/IESTI01_TinyML_class_23.pdf) [[Video]](https://youtu.be/bsbWqIp2Xz8)
 + Class 24 - Collecting Data [[Slides]](00_Curso_Folder/2_Applications/Class_24/IESTI01_TinyML_class_24.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_24/)
-+ Class 25 - Visual Wake Words 
-+ Class 26 - Demo/Lab
++ Class 25 - Visual Wake Words - Introduction [[Slides]](00_Curso_Folder/2_Applications/Class_25/IESTI01_TinyML_class_25.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_25/)
++ Class 26 - VWW - Demo/Lab - [[Slides]](00_Curso_Folder/2_Applications/Class_26/IESTI01_TinyML_class_26.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_26/)
 + Class 27 - Pre and Post Processing for Keyword Spotting, Visual Wake Words, and Gesture Recognition
 + Class 28 - Responsible AI
 + Class 29 - Group Presentations 
