@@ -4,6 +4,8 @@
 <img src='images/IESTI_2.jpg'/>
 <figcaption><a href='https://unifei.edu.br/iesti/'>Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá</a></figcaption>
 <hr>
+[IESTI01 TinyML 2021.2 course Version](https://github.com/Mjrovai/UNIFEI-IESTI01-TinyML-2021.2)
+<hr>
 
 `
 NOTA: O curso será ministrado majoritariamente em português, mas uma base de inglês será fundamental ao aluno para o acompanhamento do mesmo, pois todo o material de leitura, vídeos e slides, serão disponibilizados no idioma inglês.`
