@@ -121,8 +121,8 @@ IESTI01 faz parte do [TinyML4D](https://tinymlx.org/TinyML4D/), uma iniciativa p
 + Class 27 - Image Classification using Edge Impulse Studio [[Slides]](00_Curso_Folder/2_Applications/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_27/) [[Video EI-Studio]](https://youtu.be/JnOk66R87io) [[Video Arduino-IDE]](https://youtu.be/mabMUJAdKCc)
 + Class 28 - Responsible AI & Course Wrapup [[Slides]](00_Curso_Folder/2_Applications/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curso_Folder/2_Applications/Class_28/) [[Video]](https://youtu.be/lhUuLWX5gts) [[Privacy in Context]](https://youtu.be/1lAsEmxCbt8)
 + Class 29 and 30  - Group Presentations 
-  +  Group 1 - Seismic Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final Reports/RelatorioTinyML_TrabalhoFinal_1-Abalos.pdf) [[Video]](https://youtu.be/vswoWrOpC1s)
-  +  Group 2 - Fire Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final Reports/Projeto_final_Fire_detection/trabalho_final_Fire_Detection.pdf) [[Video]](https://youtu.be/70ySBIPzvJk)
-  +  Group 3 - Covid Detection (cough) [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final Reports/Project__Covid_19_Detection_by_Cough.pdf) [[Video]](https://youtu.be/7Lca8lfdKAI)
-  +  Group 4 - Mask Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final Reports/relatorio_final_deteccao_de_mascara.pdf) [[Video]](https://youtu.be/jeRetSaqm1w)
-  +  Group 5 - Personal Trainer [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final Reports/IESTI01_ProjetoFinal_PersonalTrainer.pdf) [[Video]](https://youtu.be/RxlHRyaRfBc) 
+  +  Group 1 - Seismic Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/RelatorioTinyML_TrabalhoFinal_1-Abalos.pdf) [[Video]](https://youtu.be/vswoWrOpC1s)
+  +  Group 2 - Fire Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/Projeto_final_Fire_detection/trabalho_final_Fire_Detection.pdf) [[Video]](https://youtu.be/70ySBIPzvJk)
+  +  Group 3 - Covid Detection (cough) [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/Project__Covid_19_Detection_by_Cough.pdf) [[Video]](https://youtu.be/7Lca8lfdKAI)
+  +  Group 4 - Mask Detection [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/relatorio_final_deteccao_de_mascara.pdf) [[Video]](https://youtu.be/jeRetSaqm1w)
+  +  Group 5 - Personal Trainer [[Docs]](00_Curso_Folder/2_Applications/Group_Projects-Final%20Reports/IESTI01_ProjetoFinal_PersonalTrainer.pdf) [[Video]](https://youtu.be/RxlHRyaRfBc) 
